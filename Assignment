@@ -1,0 +1,31 @@
+calculate the standard deviation of a set of numbers.
+with test(s)
+J&P
+
+HINT: Use arrays.
+
+standard deviation = (root)^/ variance = sum of mean deviation/ total frequency
+
+mean deviation = number - mean
+
+mean = sum of number/number of number 
+
+sum = add all number
+
+
+
+
+
+    Given   |    When    |    Act
+   =========|============|========   
+            |            |
+            |            |      
+            |            |   
+
+
+
+
+
+
+
+java.util.Scanner inputCollector = new java.util.Scanner(System.in);
